@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/vue.svg</file>
+        <file>res/i18n/svgreader_zh_CN.qm</file>
+        <file>res/icon.svg</file>
+    </qresource>
+</RCC>
